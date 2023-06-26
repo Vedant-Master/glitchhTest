@@ -16,8 +16,8 @@ const multer = require('multer');
 const multerS3 = require('multer-s3');
 const path = require('path');
 const s3 = new AWS.S3({
-  accessKeyId: "AKIARVAS5GDK4ULCBAVV",
-  secretAccessKey: "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",
+  accessKeyId: "AccessKey",
+  secretAccessKey: "SecretKey",
 });
 
 
